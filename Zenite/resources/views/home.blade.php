@@ -124,7 +124,7 @@
 
 </style>
 
-{{-- SEARCH --}}
+
 <div class="search-section">
 
     <h2>Previsão Simples e Direta por Região</h2>
@@ -138,7 +138,7 @@
 
 </div>
 
-{{-- REGIÕES --}}
+
 <div class="regions-grid">
 
     <div class="region-card">
@@ -183,7 +183,7 @@
 
 </div>
 
-{{-- FORMULÁRIO --}}
+
 <div class="report-section">
 
     <h3>Reportar Clima Local</h3>
@@ -196,7 +196,7 @@
 
             @csrf
 
-            {{-- DATA (COM ABERTURA AUTOMÁTICA DO CALENDÁRIO) --}}
+         
             <div class="form-group">
                 <label>Data</label>
 
@@ -271,10 +271,10 @@
 
 </div>
 
-{{-- SCRIPT --}}
+
 <script>
 
-    // filtro de busca
+    
     document.getElementById('search-input').addEventListener('input', function () {
 
         let termo = this.value.toLowerCase();
@@ -289,7 +289,7 @@
 
     });
 
-    // chips
+   
     function chip(container, input){
 
         const c = document.getElementById(container);
@@ -314,7 +314,7 @@
     chip('regiao-group','regiao-selecionada');
     chip('relato-group','relato-selecionado');
 
-    // ✅ ABRIR CALENDÁRIO AO CLICAR
+    
     const dataInput = document.getElementById('data_registro');
 
     if (dataInput) {
