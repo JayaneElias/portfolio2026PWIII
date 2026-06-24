@@ -1,17 +1,49 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6ad1e0&section=header" width="100%" style="display:block; margin:0;">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=e02d2d&section=header" width="100%" style="display:block; margin:0;">
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=1eb8cf&text=portfolio2026PWIII&reversal=true&textBg=false&fontColor=fff&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=e32020&text=portfolio2026PWIII&reversal=true&textBg=false&fontColor=fff&fontSize=40" />
 
 </div>
 <h3 align="center">
   Atividades de 2026 da matéria do curso de Programação de Aplicativos Mobiles III.
 </h3>
+
+
 <br/> <div align="center">
-  
+# ★ Telas do Projeto - ETEC ★
+
+
+<p align="center">
+  <img src="./Img/Etec.gif" heigth="300px">
+</p>
+
+| Tela de Login | Tela de Cadastro |
+|---------------|------------------|
+| <img src="Img/login_etec.jpeg" height="200px"> | <img src="Img/cadastro_etec.jpeg" height="200px"> |
+
+<br/>
+
+| Tela Home | Tela Cursos | Tela Eventos |
+|-----------|-------------|--------------|
+| <img src="Img/home_etec.jpeg" height="200px"> | <img src="Img/cursos_etec.jpeg" height="200px"> | <img src="Img/eventos_etec.jpeg" height="200px"> |
+
+<br/>
+
+| Tela Sobre | Tela Fallback |
+|------------|---------------|
+| <img src="Img/sobre_etec.jpeg" height="200px"> | <img src="Img/fallback_etec.jpeg" height="200px"> |
+
+
+<br/> 
+
+##
+
+<br/> 
+
+
 # ★ Telas do Projeto - Zênite ★
 
 <p align="center">
@@ -30,4 +62,4 @@
 <br/><br/>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6ad1e0&section=footer" width="100%" style="display:block; margin:0;">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=e02d2d&section=footer" width="100%" style="display:block; margin:0;">
