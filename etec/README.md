@@ -7,6 +7,43 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+
+
+<br/>
+
+<div align="center">
+
+# ★ Telas do Projeto - ETEC ★
+
+<p align="center">
+  <img src="../Img/Etec.gif" height="300px">
+</p>
+
+| Tela de Login | Tela de Cadastro |
+|---------------|------------------|
+| <img src="../Img/login_etec.jpeg" height="200px"> | <img src="../Img/cadastro_etec.jpeg" height="200px"> |
+
+<br/>
+
+| Tela Home | Tela Cursos | Tela Eventos |
+|-----------|-------------|--------------|
+| <img src="../Img/home_etec.jpeg" height="200px"> | <img src="../Img/cursos_etec.jpeg" height="200px"> | <img src="../Img/eventos_etec.jpeg" height="200px"> |
+
+<br/>
+
+| Tela Sobre | Tela Fallback |
+|------------|---------------|
+| <img src="../Img/sobre_etec.jpeg" height="200px"> | <img src="../Img/fallback_etec.jpeg" height="200px"> |
+
+<br/>
+
+##
+
+<br/>
+
+</div>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
