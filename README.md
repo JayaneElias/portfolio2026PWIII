@@ -11,6 +11,43 @@
   Atividades de 2026 da matéria do curso de Programação de Aplicativos Mobiles III.
 </h3>
 
+<br/> <div align="center">
+
+# ★ AMS Laravel - Mapeamento ★
+
+<p align="center">
+  <img src="./Img/MER_ams_laravel.png" width="800px">
+</p>
+
+
+<p> Referente à aula 19.08 </p>
+</div>
+
+  <h3> Projeto de Mapeamento Objeto-Relacional em Tempo Real, utilizando o Laravel e o MySQL. Definimos algumas entidades básicas para demonstrar o relacionamento entre elas.
+</h3>
+
+## As Tabelas são:
+
+**Users:** *armazena e registra os usuários.*
+
+**Profiles:** *armazena o perfil que o usuário possui.*
+
+**Posts:** *armazena as publicações e conteúdos dos usuários.*
+
+**Tags:** *armazena tags (tópicos) de interesse dos usuários.*
+
+<br>
+
+## Relacionamentos:
+**Tabela users 1 — 1 Tabela profiles**
+
+**Tabela users 1 — N Tabela posts**
+
+**Tabela posts N — M Tabela tags**, utilizando a tabela `post_tag` como tabela pivô.
+
+</div>
+
+<br/>
 
 <br/> <div align="center">
 # ★ Telas do Projeto - ETEC ★
