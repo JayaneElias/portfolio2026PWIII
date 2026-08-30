@@ -13,6 +13,22 @@
 
 <br/> <div align="center">
 
+# ★ AMS Laravel - Middleware ★
+
+<p align="center">
+  <img src="./Img/AcessoMiddleware.png" width="800px">
+</p>
+
+
+<p> Referente à aula 26.08 </p>
+</div>
+
+  <h3> Criar um projeto com Framework Laravel onde o controler aciona a middlewares envia uma mensagem na Visualização
+</h3>
+
+
+<br/> <div align="center">
+
 # ★ AMS Laravel - Mapeamento ★
 
 <p align="center">
