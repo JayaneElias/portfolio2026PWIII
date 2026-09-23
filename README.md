@@ -278,6 +278,15 @@ php artisan migrate:fresh --seed
 
 <br/> <div align="center">
 
+# ★ CHAT NO LARAVEL – WEBSOCKET ★
+
+<img src="./Img/Chat_Jay.png" width="400px">
+
+<img src="./Img/Chat_Julia.png" width="400px">
+
+
+<br/> <br>
+
 # ★ AMS Laravel - Middleware ★
 
 <p align="center">
